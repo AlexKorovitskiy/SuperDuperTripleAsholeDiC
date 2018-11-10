@@ -1,0 +1,6 @@
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\bin\Debug\SuperDuperTripleAsholeDiC.dll
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\bin\Debug\SuperDuperTripleAsholeDiC.pdb
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.csprojAssemblyReference.cache
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.csproj.CoreCompileInputs.cache
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.dll
+C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.pdb
