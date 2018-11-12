@@ -8,3 +8,13 @@ C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\ExampleCons
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\ExampleConsole\obj\Debug\ExampleConsole.csproj.CopyComplete
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\ExampleConsole\obj\Debug\ExampleConsole.exe
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\ExampleConsole\obj\Debug\ExampleConsole.pdb
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\bin\Debug\ExampleConsole.exe.config
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\bin\Debug\ExampleConsole.exe
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\bin\Debug\ExampleConsole.pdb
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\bin\Debug\SuperDuperTripleAsholeDiC.dll
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\bin\Debug\SuperDuperTripleAsholeDiC.pdb
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\obj\Debug\ExampleConsole.csprojAssemblyReference.cache
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\obj\Debug\ExampleConsole.csproj.CoreCompileInputs.cache
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\obj\Debug\ExampleConsole.csproj.CopyComplete
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\obj\Debug\ExampleConsole.exe
+C:\dev\SuperDuperTripleAsholeDiC2\ExampleConsole\obj\Debug\ExampleConsole.pdb

@@ -6,25 +6,26 @@ using System.Threading.Tasks;
 
 namespace SuperDuperTripleAsholeDiC
 {
-    internal class DIContainer
+    public class DIContainer
     {
+        private static object syncObject = new object();
         private static DIContainer container;
+
         private DIContainer()
         {
-            ContainerTypes = new Dictionary<Type, Type>();
+            DependencyContainer = new Dictionary<Type, Type>();
         }
 
         public static DIContainer GetContainer()
         {
-            if (container == null)
-                container = new DIContainer();
+            lock (syncObject)
+            {
+                if (container == null)
+                    container = new DIContainer();
+            }
             return container;
         }
 
-        internal Dictionary<Type, Type> ContainerTypes;
-
-
-
-
+        public Dictionary<Type, Type> DependencyContainer;
     }
 }

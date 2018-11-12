@@ -11,10 +11,10 @@ namespace ExampleConsole
     {
         static void Main(string[] args)
         {
-            Registrator.RegisteringDependency<ITestInterface, TestClass2>();
+            SuperDuperDependencies.SetDependency<ITestInterface, TestClass2>();
 
-            var obj = Resolver.GetImplementation<ITestInterface>();
-            Console.WriteLine(obj.GetString());
+            ITestInterface exampleObject = SuperDuperDependencies.GetImplementation<ITestInterface>();
+            Console.WriteLine(exampleObject.GetString());
             Console.Read();
         }
     }

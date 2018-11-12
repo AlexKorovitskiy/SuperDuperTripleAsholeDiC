@@ -4,3 +4,9 @@ C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperT
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.csproj.CoreCompileInputs.cache
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.dll
 C:\Users\alexander.korovitsky\source\repos\SuperDuperTripleAsholeDiC\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.pdb
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\bin\Debug\SuperDuperTripleAsholeDiC.dll
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\bin\Debug\SuperDuperTripleAsholeDiC.pdb
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.csprojAssemblyReference.cache
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.csproj.CoreCompileInputs.cache
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.dll
+C:\dev\SuperDuperTripleAsholeDiC2\SuperDuperTripleAsholeDiC\obj\Debug\SuperDuperTripleAsholeDiC.pdb
